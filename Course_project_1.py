@@ -8,7 +8,7 @@ def getHoursWorked():
 
 def getHourlyRate():
     hourlyRate = float(input("Enter Hourly Rate: "))
-    return getHourlyRate
+    return hourlyRate
 
 def getTaxRate():
     taxRate = float(input("Enter Tax Rate: "))
